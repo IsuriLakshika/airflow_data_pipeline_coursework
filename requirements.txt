@@ -1,0 +1,5 @@
+requests==2.31.0
+psycopg2-binary==2.9.9
+pandas==2.1.4
+matplotlib==3.8.2
+notebook==7.0.6
